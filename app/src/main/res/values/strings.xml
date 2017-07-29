@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meters(m) To Inches(in)</string>
+    <string name="error_message">Please enter a Valid Number(Not user \" , \" Decimal)</string>
+</resources>
